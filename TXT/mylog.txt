@@ -40,7 +40,7 @@ ZCZC W03 20 L04 Github Pages related
 ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 30 L07 Demo related
 ZCZC W03 300 L13 Assignment #03
-ZCZC W03 25 Linux CLI including tar, etc. 
+ZCZC W03 25 L22 Linux CLI including tar, etc. 
 ZCZC W03 15 L23 Bash, Regex, SED, AWK
 ZCZC W03 30 L25 C-language including Make
 ZCZC W03 20 L26 GnuPG, key-gen, encrypt/decrypt
