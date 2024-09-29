@@ -18,6 +18,10 @@ Last Rev: Fri 20 Sep 2024 20:00
   This article explains about Makefiles in general, about how to use and create Makefiles.
 - [Linux Partitioning: A Comprehensive Guide](https://harsh05.medium.com/linux-partitioning-a-comprehensive-guide-64b8618cb3f3#:~:text=Disk%20Partitioning%20is%20the%20process,partitions%20in%20the%20partition%20table.)
   This article is has a full explanation about Linux Partitioning, quite a long read but worth all the time spent.
+- [FUSE - The Linux Kernel Documentation](https://www.kernel.org/doc/html/next/filesystems/fuse.html)
+  This page has a full documentation and explanation about FUSE (Filesystem in Userspace).
+- [Linux File System - GFG](https://www.geeksforgeeks.org/linux-file-system/)
+  This article provides explanation about the various file systems available in Linux.
 
 ## Youtube
 
