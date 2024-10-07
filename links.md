@@ -22,6 +22,12 @@ Last Rev: Fri 20 Sep 2024 20:00
   This page has a full documentation and explanation about FUSE (Filesystem in Userspace).
 - [Linux File System - GFG](https://www.geeksforgeeks.org/linux-file-system/)
   This article provides explanation about the various file systems available in Linux.
+- [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+  This article provides explanation about the two types of memory addresses which are logical and physical addresses.
+- [How to Encrypt and Decrypt Files Using GPG in Linux](https://www.tecmint.com/gpg-encrypt-decrypt-files/)
+  This page goes through the steps of encrypting and decrypting using the GPG (GNU Privacy Guard).
+- [md5sum Linux Command](https://www.geeksforgeeks.org/md5sum-linux-command/)
+  This page explains about the md5sum command in Linux and its use cases.
 
 ## Youtube
 
