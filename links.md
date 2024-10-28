@@ -29,6 +29,15 @@ Last Rev: Fri 20 Sep 2024 20:00
 - [md5sum Linux Command](https://www.geeksforgeeks.org/md5sum-linux-command/)
   This page explains about the md5sum command in Linux and its use cases.
 
+## Week 06
+
+- [Advanced Bash-Scripting Guide: Special Characters](https://linux.die.net/abs-guide/special-chars.html)
+  A comprehensive explanation and examples of special characters in bash-scripting, summarized into a single page.
+- [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14)
+  Great YouTube video explaining the basic concepts of the fork() function in C.
+- [Operating System: Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+  An article about fundamental concepts about processes in operating systems. It explains what processes are, their components (stack, heap, text, and data), their life cycle, and also the Process Control Block (PCB).
+
 ## Youtube
 
 - [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=kh_yYsj057LV4vv0)
