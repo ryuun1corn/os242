@@ -80,7 +80,17 @@ ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 60 L03 Github and git related, including commit, push, pull
 ZCZC W06 120 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
-ZCZC W06 180 L06 L16 Assignment #16
+ZCZC W06 180 L16 Assignment #06
 ZCZC W06 60 L22 Linux CLI including tar, etc.
 ZCZC W06 60 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W06 60 L27 SSH, key-gen, tunneling, putty, winscp
+
+ZCZC W07 40 L01 Scele/Discord related
+ZCZC W07 200 L02 CLASSROOOM/ZOOM meetings related
+ZCZC W07 60 L03 Github and git related, including commit, push, pull
+ZCZC W07 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W07 120 L17 Assignment #07
+ZCZC W07 120 L22 Linux CLI, including tar, etc.
+ZCZC W07 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W07 120 L27 SSH, key-gen, tunneling, putty, winscp

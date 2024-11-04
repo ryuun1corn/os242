@@ -38,6 +38,17 @@ Last Rev: Fri 20 Sep 2024 20:00
 - [Operating System: Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
   An article about fundamental concepts about processes in operating systems. It explains what processes are, their components (stack, heap, text, and data), their life cycle, and also the Process Control Block (PCB).
 
+## Week 07
+
+- [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+  This article introduces process synchronization in multi-process systems, explaining why it’s critical to coordinate processes to avoid race conditions and data inconsistencies.
+
+- [Peterson's Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
+  The article explores Peterson’s Algorithm, which provides a mutual exclusion solution for two processes, often applied in producer-consumer scenarios. It explains the algorithm’s reliance on shared memory and flags to ensure one process waits if the other is in a critical section.
+
+- [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+  This article explains semaphores and their purpose in process synchronization, focusing on their use to enforce mutual exclusion and prevent race conditions. It covers the key semaphore operations, wait (P) and signal (V), and describes their role in managing process access.
+
 ## Youtube
 
 - [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=kh_yYsj057LV4vv0)
