@@ -49,6 +49,17 @@ Last Rev: Fri 20 Sep 2024 20:00
 - [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
   This article explains semaphores and their purpose in process synchronization, focusing on their use to enforce mutual exclusion and prevent race conditions. It covers the key semaphore operations, wait (P) and signal (V), and describes their role in managing process access.
 
+## Week 08
+
+- [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+  A detailed guide explaining how operating systems manage CPU resources through scheduling. It covers the fundamental concepts of process scheduling and explores various algorithms like FCFS, SJF, LJF, Priority Scheduling, Round Robin, and SRTF. The article discusses why these scheduling algorithms are necessary and what they aim to achieve.
+
+- [Linux From Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+  A comprehensive manual that demonstrates the step-by-step process of creating your own custom Linux distribution. Rather than using pre-built packages, this guide shows you how to compile everything from source code, including the kernel, GNU tools, and essential system utilities. It's designed to provide deep insights into Linux's inner workings while allowing you to build a system tailored to your specifications.
+
+- [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)<br>
+  A video series by Kernotex that complements the Linux From Scratch book with visual demonstrations. This playlist serves as a practical companion to the written guide, offering clear explanations and demonstrations of each step in the LFS building process. It's particularly helpful for users who need additional clarification while following the book's instructions.
+
 ## Youtube
 
 - [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=kh_yYsj057LV4vv0)

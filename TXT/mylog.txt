@@ -94,3 +94,13 @@ ZCZC W07 120 L17 Assignment #07
 ZCZC W07 120 L22 Linux CLI, including tar, etc.
 ZCZC W07 60 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W07 120 L27 SSH, key-gen, tunneling, putty, winscp
+
+ZCZC W08 40 L01 Scele/Discord related
+ZCZC W08 100 L02 CLASSROOOM/ZOOM meetings related
+ZCZC W08 60 L03 Github and git related, including commit, push, pull
+ZCZC W08 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W08 120 L18 Assignment #07
+ZCZC W08 180 L22 Linux CLI, including tar, etc.
+ZCZC W08 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 120 L27 SSH, key-gen, tunneling, putty, winscp
